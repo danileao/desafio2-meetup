@@ -15,6 +15,13 @@ Para validação dos campos foi utilizada a biblioteca Yup e para autenticação
 - Sequelize com postgres
 
 ### Instalação
+  Para quem utiliza NPM
+  ```
+  npm install
+  npm dev
+  ```
+
+Para quem utiliza yarn
   ```
   yarn install
   yarn dev
